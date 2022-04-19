@@ -6,5 +6,5 @@ Personal solutions to codingDojo
 
 ### MySql
 - [x] [Sakila](Java/mysql/sakila/sakila.query.sql)
-
+- [x] [Countries](Java/mysql/countries/countries.query.sql)
       
