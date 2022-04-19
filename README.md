@@ -1,6 +1,6 @@
 Personal solutions to codingDojo
 
-# CodinDojo
+# CodingDojo
 
 ## Problems 
 
