@@ -6,7 +6,7 @@
 
 Usando la base de datos Sakila, complete las consultas a continuación.
 
-Puedes obtener la base de datos de **Sakila** y ERD aquí ([sakila-data.sql](sakila-data.sql) y ![sakila-db-mod.png](![sakila-db-model](https://user-images.githubusercontent.com/84986697/163922506-744235bc-2a11-48fe-b8ea-abf56c85e2c0.png)), utilízalos como referencia.
+Puedes obtener la base de datos de **Sakila** y ERD aquí ([sakila-data.sql](/Java/lib/mysql/sakila-data.sql) y [sakila-db-model](https://user-images.githubusercontent.com/84986697/163922506-744235bc-2a11-48fe-b8ea-abf56c85e2c0.png)), utilízalos como referencia.
 
 >Nota
 >
