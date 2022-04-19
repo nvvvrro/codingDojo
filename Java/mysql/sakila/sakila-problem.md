@@ -1,18 +1,18 @@
-##**Sakila**
+## Sakila
 
-####Objetivos:
+### Objetivos:
 
-1. Practica tus consultas SQL.![](Aspose.Words.bdedc558-c50f-475c-99ac-6c0ab3f4e3c6.001.png)
+1.Practica tus consultas SQL.![](Aspose.Words.bdedc558-c50f-475c-99ac-6c0ab3f4e3c6.001.png)
 
 Usando la base de datos Sakila, complete las consultas a continuación.
 
-Puedes obtener la base de datos de **Sakila** y ERD aquí (sakila-data.[sql y sakila-db-mod](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/sakila-data.sql)el[.png), utilízalos como refere](https://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png)ncia.
+Puedes obtener la base de datos de **Sakila** y ERD aquí ([sakila-data.sql](sakila-data.sql) y ![sakila-db-mod.png](![sakila-db-model](https://user-images.githubusercontent.com/84986697/163922506-744235bc-2a11-48fe-b8ea-abf56c85e2c0.png)), utilízalos como referencia.
 
-Nota
+>Nota
+>
+>Anteriormente en esta sección, recomendamos que los estudiantes nombren sus tablas en minúsculas y tengan una clave principal llamada 'id' en cada tabla. Estas son las reglas que seguimos, sin embargo, no todos los desarrolladores siguen estas reglas. El archivo SQL con el que trabajará NO sigue las reglas que discutimos, incluida la denominación de los campos en minúsculas. Todavía queremos que siga las reglas que enseñamos, pero use esto como una oportunidad para sentirse cómodo con otros archivos SQL que no siguen completamente las reglas de normalización.
 
-Anteriormente en esta sección, recomendamos que los estudiantes nombren sus tablas en minúsculas y tengan una clave principal llamada 'id' en cada tabla. Estas son las reglas que seguimos, sin embargo, no todos los desarrolladores siguen estas reglas. El archivo SQL con el que trabajará NO sigue las reglas que discutimos, incluida la denominación de los campos en minúsculas. Todavía queremos que siga las reglas que enseñamos, pero use esto como una oportunidad para sentirse cómodo con otros archivos SQL que no siguen completamente las reglas de normalización.
-
-Consultas
+### **Consultas**
 
 1.¿Qué consulta ejecutarías para obtener todos los clientes dentro de city\_id = 312? Su consulta debe devolver el nombre, apellido, correo electrónico y dirección del cliente.
 
@@ -30,4 +30,4 @@ Consultas
 
 8.¿Qué consulta harías para obtener todas las películas de acción a las que se une SANDRA KILMER? Su consulta debe devolver el título de la película, la descripción, el año de estreno, la calificación, las características especiales, el género (categoría) y el nombre y apellido del actor.
 
-Nota: Puedes descargar este archivo PDF que muestra los Resultados e[sperados (Sakila) a las preguntas anter](https://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5439_MySQL-Intermediate-Sakila-Expected-Result.pdf)iores. Su proyecto debe llamarse **sakila** en Github.
+*Nota: Puedes descargar este archivo PDF que muestra los Resultados e[sperados (Sakila) a las preguntas anter](https://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5439_MySQL-Intermediate-Sakila-Expected-Result.pdf)iores. Su proyecto debe llamarse **sakila** en Github.*
