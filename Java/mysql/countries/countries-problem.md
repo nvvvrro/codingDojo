@@ -6,6 +6,8 @@
 
 Usando la base de datos mundial y el ERD ilustrado, complete las 8 consultas a continuación.
 
+![world-db-model](https://user-images.githubusercontent.com/84986697/163926734-800beeff-75f8-4585-9bf4-b160988dcdb4.png)
+
 Primero encuentra la base de datos world [baja el archivo aquí](/Java/lib/mysql/world.sql)
 
 > Si es posible, trabaja en grupos y use MySQL Workbench para hacer las consultas. Queremos que se familiarice con el uso de MySQL workbench. Las preguntas son de diferentes niveles de dificultad. Haz las más fáciles primero.
