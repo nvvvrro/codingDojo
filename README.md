@@ -5,6 +5,6 @@ Personal solutions to codingDojo
 ## Problems 
 
 ### MySql
-- [x] [The descent](Java/mysql/sakila/sakila.query.sql)
+- [x] [Sakila](Java/mysql/sakila/sakila.query.sql)
 
       
