@@ -8,7 +8,7 @@ public class Me {
 		String ciudad="Santiago";
 		
 		System.out.println("Mi nombre es "+nombre+
-				"\nTengo "+edad+" a�os de edad."+ 
+				"\nTengo "+edad+" anios de edad."+ 
 				"\nMi ciudad es "+ciudad);
 	
 	}
