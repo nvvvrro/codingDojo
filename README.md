@@ -18,6 +18,8 @@ Personal solutions to codingDojo
 - [x] [WorkBrench Setup](Java/mysql/Queries/setup-workbrench/setup.query.sql)
 - [x] [Sakila](Java/mysql/Queries/sakila/sakila.query.sql)
 - [x] [Countries](Java/mysql/Queries/countries/countries.query.sql)
+- [x] [Friendships](Java/mysql/Queries/friendships/friends.query.sql)
+
   > [prueba-queries](Java/mysql/Queries/prueba-queries.md)
 
 ## Java fundamentals
