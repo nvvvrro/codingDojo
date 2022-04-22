@@ -1,4 +1,4 @@
-## MySQL Workbench Setup
+# MySQL Workbench Setup
 Usa MySQL Workbench para conectarse a su host local.
 
 >Aprende a usar MySQL workbench para hacer consultas directamente en la base de datos. Para conectarse a una base de datos específica, ejecuta USE [databasename] en la ventana de queries.

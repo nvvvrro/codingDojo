@@ -1,4 +1,4 @@
-## MySQL Countries
+# MySQL Countries
 
 ### Objetivos:
 
@@ -12,7 +12,8 @@ Primero encuentra la base de datos world [baja el archivo aquí](/Java/lib/mysql
 
 > Si es posible, trabaja en grupos y use MySQL Workbench para hacer las consultas. Queremos que se familiarice con el uso de MySQL workbench. Las preguntas son de diferentes niveles de dificultad. Haz las más fáciles primero.
 
-Consultas
+### **Consultas**
+
 
 1. ¿Qué consulta harías para obtener todos los países que hablan esloveno? Tu consulta debe devolver el nombre del país, el idioma y el porcentaje de idioma. Tu consulta debe organizar el resultado por porcentaje de idioma en orden descendente. (1)
 
