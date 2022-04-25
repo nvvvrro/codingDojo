@@ -1,4 +1,4 @@
-Personal solutions to codingDojo
+##### ***Personal solutions to codingDojo***
 
 # CodingDojo
 
@@ -11,7 +11,7 @@ Personal solutions to codingDojo
 - [x] [Dojos y Ninjas](Java/mysql/ERD/dojos-ninjas/dojos_ninjas_model.png)
 - [x] [Libros](Java/mysql/ERD/libros/libros_model.png)
 - [x] [Planeador de Eventos](Java/mysql/ERD/planeador_eventos/planeador_eventos.png)
-  > [prueba-erd](Java/mysql/ERD/prueba-erd.md)
+  > [prueba - erd](Java/mysql/ERD/prueba-erd.md)
 
 #### Queries
 
@@ -19,9 +19,9 @@ Personal solutions to codingDojo
 - [x] [Sakila](Java/mysql/Queries/sakila/sakila.query.sql)
 - [x] [Countries](Java/mysql/Queries/countries/countries.query.sql)
 - [x] [Friendships](Java/mysql/Queries/friendships/friends.query.sql)
-- [x] [Lead Gen_Business](Java/mysql/Queries/lead_gen_business/lead_gen_business.query.sql)
+- [x] [Lead Gen Business](Java/mysql/Queries/lead_gen_business/lead_gen_business.query.sql)
 
-  > [prueba-queries](Java/mysql/Queries/prueba-queries.md)
+  > [prueba - queries](Java/mysql/Queries/prueba-queries.md)
 
 ## Java fundamentals
 
