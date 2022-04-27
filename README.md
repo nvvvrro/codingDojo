@@ -1,4 +1,4 @@
-##### ***Personal solutions to codingDojo***
+##### **_Personal solutions to codingDojo_**
 
 # CodingDojo
 
@@ -28,4 +28,5 @@
 ### **Fundamentals**
 
 - [x] [Mi Primer Programa](Java/java-fundamentals/fundamentals/javaFun/src/javaFun/Me.java)
-    > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
+- [x] [Teorema de Pitágoras](Java/java-fundamentals/fundamentals/javaFun/src/pitagoras/Pitagoras.java)
+  > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
