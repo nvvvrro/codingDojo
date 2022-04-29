@@ -2,7 +2,7 @@
 
 En esta actividad, usted creará un programa en Java para implementar el Teorema de Pitágoras.
 
-imagen
+![formula](https://user-images.githubusercontent.com/84986697/165883263-a460cf8d-c81a-49bd-b9c8-d9aad208eaf7.png)
 
 > Para completar esta actividad, usted necesitará la clase Math del paquete java.lang. Este paquete provee clases fundamentales para el lenguaje de programación Java tales como Object, Boolean, String, Integer, Math, etc. Por lo tanto, el paquetejava.lang es importado automáticamente y está listo para usarse en cada programa de Java.
 
