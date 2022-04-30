@@ -31,7 +31,7 @@ public class StringManipulatorTest {
 		System.out.printf("indice de la subcadena <%s> en <%s>: %d \n", subString, word, d);
 		System.out.printf("indice de la subcadena <%s> en <%s>: %d \n", notSubString, word, e);
 
-		// 3.- ------------------------
+		// 4.- ------------------------
 
 		System.out.println("\n4.-------- concatSubstring(str, int, int, str) --------");
 		String word2 = manipulator.concatSubstring("Hola", 1, 3, "mundo");
