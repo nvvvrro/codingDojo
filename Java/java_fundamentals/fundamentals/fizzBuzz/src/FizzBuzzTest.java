@@ -1,7 +1,3 @@
-package cl.dojo;
-
-import cl.dojo.libraries.FizzBuzz;
-
 public class FizzBuzzTest {
 
 	public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package cl.dojo.libraries;
-
 public class FizzBuzz {
 	public String fizzBuzz(int number) {
 

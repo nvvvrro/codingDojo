@@ -27,7 +27,9 @@
 
 ### **Fundamentals**
 
-- [x] [Mi Primer Programa](Java/java-fundamentals/fundamentals/javaFun/src/javaFun/Me.java)
-- [x] [Teorema de Pitágoras](Java/java_fundamentals/fundamentals/javaFun/src/pitagoras/Pitagoras.java)
-- [x] [FizzBuzz](Java/java_fundamentals/fundamentals/fizzBuzz/src/cl/dojo/libraries/FizzBuzz.java)
+- [x] [Mi Primer Programa](Java/java_fundamentals/fundamentals/javaFun/src/javaFun/Main.java) 
+- [x] [Teorema de Pitágoras](Java/java_fundamentals/fundamentals/javaFun/src/pitagoras/PitagorasTest.java)
+- [x] [FizzBuzz](Java/java_fundamentals/fundamentals/fizzBuzz/src/FizzBuzzTest.java)
+- [x] [Manipulacion de cadenas](Java/java_fundamentals/fundamentals/stringManipulator/src/StringManipulatorTest.java)
+
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
