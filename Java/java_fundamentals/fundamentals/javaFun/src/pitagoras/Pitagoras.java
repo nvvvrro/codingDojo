@@ -1,5 +1,3 @@
-package pitagoras;
-
 public class Pitagoras {
 
 	public double calcularHipotenusa(int catetoA, int catetoB) {

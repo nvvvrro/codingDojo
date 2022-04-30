@@ -1,5 +1,3 @@
-package pitagoras;
-
 public class PitagorasTest {
 
 	public static void main(String[] args) {

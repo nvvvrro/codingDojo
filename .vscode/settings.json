@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "Java/java_fundamentals/fundamentals/javaFun/src/pitagoras",
+    "Java/java_fundamentals/fundamentals/fizzBuzz/src",
+    "Java/java_fundamentals/fundamentals/javaFun/src/javaFun"
+  ]
+}
