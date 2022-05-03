@@ -33,5 +33,6 @@
 - [x] [FizzBuzz](Java/java_fundamentals/fundamentals/fizzBuzz/src/FizzBuzzTest.java)
 - [x] [Manipulacion de cadenas](Java/java_fundamentals/fundamentals/stringManipulator/src/StringManipulatorTest.java)
 - [x] [Ejercicios Basicos (BasicJava)](Java/java_fundamentals/fundamentals/basicJava/src/BasicJavaTest.java)
+- [x] [Rompecabezas](Java/java_fundamentals/fundamentals/rompecabezas/src/Main.java)
 
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
