@@ -29,10 +29,11 @@
 ### **Fundamentals**
 
 - [x] [Mi Primer Programa](Java/java_fundamentals/fundamentals/javaFun/src/javaFun/Main.java)
-- [x] [Teorema de Pitágoras](Java/java_fundamentals/fundamentals/javaFun/src/pitagoras/PitagorasTest.java)
-- [x] [FizzBuzz](Java/java_fundamentals/fundamentals/fizzBuzz/src/FizzBuzzTest.java)
-- [x] [Manipulacion de cadenas](Java/java_fundamentals/fundamentals/stringManipulator/src/StringManipulatorTest.java)
-- [x] [Ejercicios Basicos (BasicJava)](Java/java_fundamentals/fundamentals/basicJava/src/BasicJavaTest.java)
-- [x] [Rompecabezas](Java/java_fundamentals/fundamentals/rompecabezas/src/Main.java)
+- [x] [Teorema de Pitágoras](Java/java_fundamentals/fundamentals/javaFun/src/pitagoras/Pitagoras.java)
+- [x] [FizzBuzz](Java/java_fundamentals/fundamentals/fizzBuzz/src/FizzBuzz.java)
+- [x] [Manipulacion de cadenas](Java/java_fundamentals/fundamentals/stringManipulator/src/StringManipulator.java)
+- [x] [Ejercicios Basicos (BasicJava)](Java/java_fundamentals/fundamentals/basicJava/src/BasicJava.java)
+- [x] [Rompecabezas](Java/java_fundamentals/fundamentals/rompecabezas/src/PuzzleJava.java)
+- [x] [Mapa de hashmatique](Java/java_fundamentals/fundamentals/mapaHashmatique/src/TrackList.java)
 
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
