@@ -35,5 +35,6 @@
 - [x] [Ejercicios Basicos (BasicJava)](Java/java_fundamentals/fundamentals/basicJava/src/BasicJava.java)
 - [x] [Rompecabezas](Java/java_fundamentals/fundamentals/rompecabezas/src/PuzzleJava.java)
 - [x] [Mapa de hashmatique](Java/java_fundamentals/fundamentals/mapaHashmatique/src/TrackList.java)
+- [x] [Lista de Excepciones](Java/java_fundamentals/fundamentals/exceptions/src/Exceptions.java)
 
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
