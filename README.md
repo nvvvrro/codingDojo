@@ -38,3 +38,7 @@
 - [x] [Lista de Excepciones](Java/java_fundamentals/fundamentals/exceptions/src/Exceptions.java)
 
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
+
+### Java OOP
+
+- [x] [Proyecto Class](Java/java_fundamentals/java_OOP/proyectoClass/src/ProjectTest.java)
