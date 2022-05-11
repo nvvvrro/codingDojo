@@ -42,3 +42,4 @@
 ### Java OOP
 
 - [x] [Proyecto Class](Java/java_fundamentals/java_OOP/proyectoClass/src/ProjectTest.java)
+- [x] [Lista Simple Enlazada](Java/java_fundamentals/java_OOP/SLL//src/listAssigment/SinglyLinkedList.java)

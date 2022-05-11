@@ -17,7 +17,7 @@ En esta actividad, usted creará un programa en Java para implementar el Teorema
 
 - Crear una clase Pitagoras en javaFun.
 
-javaFun/Pitagoras.java
+**javaFun/Pitagoras.java**
 
     public class Pitagoras {
         public double calcularHipotenusa(int catetoA, int catetoB) {
