@@ -39,7 +39,12 @@
 
   > [prueba - iniciar con java](Java/java-fundamentals/fundamentals/prueba-inicial-java.md)
 
-### Java OOP
+### **Java OOP**
 
 - [x] [Proyecto Class](Java/java_fundamentals/java_OOP/proyectoClass/src/ProjectTest.java)
 - [x] [Lista Simple Enlazada](Java/java_fundamentals/java_OOP/SLL//src/listAssigment/SinglyLinkedList.java)
+- [x] [Guardia del Zoológico: Parte 1](Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo/animals/Gorilla.java)
+- [x] [Guardia del Zoológico: Parte 2](Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo/animals/Bat.java)
+
+  >
+  
