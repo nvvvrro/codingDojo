@@ -1,7 +1,7 @@
 {
   "java.project.sourcePaths": [
     "Java/java_fundamentals/java_OOP/proyectoClass/src",
-    "Java/java_fundamentals/java_OOP/guardiaZoologico/src/cl/dojo",
+    "Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo",
     "Java/java_fundamentals/java_OOP/SLL/src/listAssigment",
     "Java/java_fundamentals/fundamentals/stringManipulator/src",
     "Java/java_fundamentals/fundamentals/rompecabezas/src",
@@ -11,6 +11,6 @@
     "Java/java_fundamentals/fundamentals/fizzBuzz/src",
     "Java/java_fundamentals/fundamentals/exceptions/src",
     "Java/java_fundamentals/fundamentals/basicJava/src",
-    "Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo"
+    "Java/java_fundamentals/java_OOP/maestroObjetos/src"
   ]
 }
