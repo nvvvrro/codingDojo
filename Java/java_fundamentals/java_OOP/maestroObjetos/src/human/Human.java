@@ -57,12 +57,12 @@ public class Human {
 				+ getIntelligence() + ", getHealth()=" + getHealth() + "]";
 	}
 
-	public Human attack(Human attacked) {
-		int damage = attacked.getHealth();
+	public Human attack(Human enemy) {
+		int damage = enemy.getHealth();
 		damage -= getStrength();
 
-		attacked.setHealth(damage);
-		System.out.println("   " + attacked.getHealth() + "% ~ ataque ~");
+		enemy.setHealth(damage);
+		System.out.println("   " + enemy.getHealth() + "% ~ ataque a un " + enemy.getClass().getSimpleName());
 
 		return this;
 	}

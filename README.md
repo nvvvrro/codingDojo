@@ -45,6 +45,7 @@
 - [x] [Lista Simple Enlazada](Java/java_fundamentals/java_OOP/SLL//src/listAssigment/SinglyLinkedList.java)
 - [x] [Guardia del Zoológico: Parte 1](Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo/animals/Gorilla.java)
 - [x] [Guardia del Zoológico: Parte 2](Java/java_fundamentals/java_OOP/guardiaZoologico/src/dojo/animals/Bat.java)
+- [x] [Maestro de Objetos: Parte 1](Java/java_fundamentals/java_OOP/maestroObjetos/src/human/Human.java)
+- [x] [Maestro de Objetos: Parte 2](Java/java_fundamentals/java_OOP/maestroObjetos/src/HumanTest.java)
 
   >
-  
