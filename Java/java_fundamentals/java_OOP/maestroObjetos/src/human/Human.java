@@ -53,8 +53,8 @@ public class Human {
 
 	@Override
 	public String toString() {
-		return "Human [getStrength()=" + getStrength() + ", getStealth()=" + getStealth() + ", getIntelligence()="
-				+ getIntelligence() + ", getHealth()=" + getHealth() + "]";
+		return "Human [Strength()=" + getStrength() + ", Stealth()=" + getStealth() + ", Intelligence()="
+				+ getIntelligence() + ", Health()=" + getHealth() + "]";
 	}
 
 	public Human attack(Human enemy) {
