@@ -83,3 +83,5 @@ En esta actividad vamos a utilizar clases **Abstract e Interface** para crear 2 
     }
 
 - Implementar los métodos **(ring, unlock, displayInfo)** de las clases **IPhone y Galaxy** de acuerdo al archivo siguiente archivo **PhoneTester**:
+
+(https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Screen_Shot_2018-03-05_at_9.07.25_PM.png)
