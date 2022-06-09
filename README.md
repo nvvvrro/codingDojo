@@ -53,3 +53,4 @@
 ### **Java OOP Advanced**
 
 - [x] [Cuenta de Banco](Java/java_fundamentals/java_OOP_advanced/cuentaBanco/src/BankAccount.java)
+- [x] [Pokemon](Java/java_fundamentals/java_OOP_advanced/pokemon/src/Pokemon.java)
