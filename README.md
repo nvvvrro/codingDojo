@@ -54,3 +54,6 @@
 
 - [x] [Cuenta de Banco](Java/java_fundamentals/java_OOP_advanced/cuentaBanco/src/BankAccount.java)
 - [x] [Pokemon](Java/java_fundamentals/java_OOP_advanced/pokemon/src/Pokemon.java)
+- [x] [Teléfonos](Java/java_fundamentals/java_OOP_advanced/telefonos/src/Phone.java)
+
+  >

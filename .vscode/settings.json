@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "Java/java_fundamentals/java_OOP_advanced/pokemon/src",
     "Java/java_fundamentals/java_OOP_advanced/cuentaBanco/src",
     "Java/java_fundamentals/java_OOP/proyectoClass/src",
     "Java/java_fundamentals/java_OOP/maestroObjetos/src",
@@ -13,6 +14,6 @@
     "Java/java_fundamentals/fundamentals/fizzBuzz/src",
     "Java/java_fundamentals/fundamentals/exceptions/src",
     "Java/java_fundamentals/fundamentals/basicJava/src",
-    "Java/java_fundamentals/java_OOP_advanced/pokemon/src"
+    "Java/java_fundamentals/java_OOP_advanced/telefonos/src"
   ]
 }
