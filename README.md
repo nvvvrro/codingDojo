@@ -1,4 +1,4 @@
-##### **_Personal solutions to codingDojo_**
+### ***Personal solutions to codingDojo***
 
 # CodingDojo
 
