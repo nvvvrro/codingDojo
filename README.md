@@ -1,4 +1,4 @@
-### ***Personal solutions to codingDojo***
+### **_Personal solutions to codingDojo_**
 
 # CodingDojo
 
@@ -60,6 +60,11 @@
 
 ### **Java Web**
 
+- [x] [Leer y Crear XML](Java/java_fundamentals/java_web/leerCrearXML/leer-crear-xml-problem.md)
 - [x] [Informacion de Usuario](Java/java_fundamentals/java_web/informacionUsuario/src/java/cl/dojo/servlets/Home.java)
+- [x] [Tablero de Damas](Java/java_fundamentals/java_web/tableroDamas/tablero-damas-problem.md)
+- [x] [Mascotas!](Java/java_fundamentals/java_web/mascotas/mascotas-problem.md)
+- [x] [Juego Great Number](Java/java_fundamentals/java_web/juegoGreatNumber/juego-great-number-problem.md)
+- [x] [Lista de Equipos](Java/java_fundamentals/java_web/listaEquipos/lista-equipos-problem.md)
 
   >
