@@ -68,3 +68,13 @@
 - [x] [Lista de Equipos](Java/java_fundamentals/java_web/listaEquipos/lista-equipos-problem.md)
 
   >
+
+## Java Spring
+
+### **Spring Fundamentals**
+
+- [x] [Familiarizarnos con enrutamiento](Java/java_spring/spring_fundamentals/familiarizarnosEnrutamiento/familiarizarnos-enrutamiento-problem.md)
+- [x] [Contador](Java/java_spring/spring_fundamentals/contador/contador-problem.md)
+- [x] [Juego Ninja Gold](Java/java_spring/spring_fundamentals/juegoNinjaGold/juego-ninja-gold-problem.md)
+
+  >
